@@ -54,6 +54,7 @@
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - [Jacob Paine](https://github.com/jacobpaine)
 - [Ruben Meza](https://github.com/rubenmeza)
+- Ryan Winters (https://github.com/RyanWinters)
 -Nicole Perey
 -Jesus Gil
 -Jawad-nafad
